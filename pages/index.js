@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import styles from './index.module.css'
+import Head from "next/head";
+import styles from "./index.module.css";
 
 const Home = () => (
   <div className={styles.container}>
@@ -43,6 +43,6 @@ const Home = () => (
       </div>
     </main>
   </div>
-)
+);
 
-export default Home
+export default Home;
